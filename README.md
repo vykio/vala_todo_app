@@ -1,6 +1,6 @@
 ## Important commands
 
-# Build : 
+# Build
 
 The first time:
 ```
